@@ -1,4 +1,4 @@
-## Dependencies Used here are as follows -->
+## Dependencies Used in this project ---
 `npm i @reduxjs/toolkit` \
 `npm i redux` \
 `npm i react-redux` 
