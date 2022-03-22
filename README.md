@@ -11,13 +11,13 @@ In the project directory, you can run:
 First fork this repo \
 Then clone this repository \ 
 For cloning copy the HTTPS key and then paste it with thie command \
-`git clone "https://github.com/Sayan-Maity/Login_Redux.git"` \
+`git clone "https://github.com/Sayan-Maity/Login_Redux.git"` 
 
 After cloning, your first step would be to install the node modules \
-`npm install` \
+`npm install` 
 
 If you aren't inside the project folder type this command \
-`cd .\todo-auth\` \
+`cd .\todo-auth\` 
 
 After entering into the folder start your development server using this command \
 `npm start` 
