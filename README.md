@@ -1,3 +1,9 @@
+# Dependencies Used here are as follows -->
+npm i @reduxjs/toolkit
+npm i redux
+npm i react-redux
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
