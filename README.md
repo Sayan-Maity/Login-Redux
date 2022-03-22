@@ -1,7 +1,7 @@
 # Dependencies Used here are as follows -->
 npm i @reduxjs/toolkit \
 npm i redux \
-npm i react-redux \
+npm i react-redux 
 
 
 
