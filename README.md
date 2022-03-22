@@ -9,9 +9,9 @@ In the project directory, you can run:
 
 ### Steps to start the project into your local Repo
 If you aren't inside the project folder type this command \
-`cd .\todo-auth\`
+`cd .\todo-auth\` \
 After entering into the folder start your development server using this command \
-`npm start` 
+`npm start` \
 
 
 Runs the app in the development mode.\
