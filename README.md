@@ -15,7 +15,7 @@ Then clone this repository
 For cloning the repo, copy the HTTPS key and then paste it like this command \
 `git clone "https://github.com/Sayan-Maity/Login_Redux.git"` 
 
-After cloning, your first step would be to install the node modules \
+After cloning, your next step will be to install the node modules \
 `npm install` 
 
 If you aren't inside the project folder type this command \
