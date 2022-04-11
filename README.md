@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ## Steps to start the project into your local Repo
 At first fork this repo \
-`click the "Fork" button located top-right corner of your page`
+`click the "Fork" button located at the top-right corner of the page`
 
 Then clone this repository 
 
